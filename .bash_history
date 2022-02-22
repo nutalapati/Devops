@@ -14,3 +14,6 @@ cat shiva1
 ll
 ls
 git status
+ls 
+ls -al
+git status
